@@ -1,0 +1,40 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+title = "Home"
+
+[[main]]
+name = "Esempi"
+url = "/esempi-mappe-3d-outdoor-territorio"
+weight = 2
+
+[[main]]
+name = "Chi sono"
+url = "/chi-sono"
+weight = 3
+
+
+
+[[main]]
+name = "Contatti"
+url = "/contatti"
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 5
+
+
+
+# footer menu
+
+
+# [[footer]]
+# name = "Home"
+# url = "/"
+# weight = 1

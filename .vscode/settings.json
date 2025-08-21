@@ -1,0 +1,13 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Outdoor3D/assets/images/",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "Outdoor3D/content/italian/blog/",
+            "badge": "🤖",
+            "color": "foldercolorizer.color_996633"
+        }
+    ]
+}
