@@ -1,7 +1,7 @@
 ---
 title: "Creazione mappe sentieri trekking e mtb: uno strumento di marketing turistico"
 description: "Scopri come la creazione di mappe per sentieri trekking e MTB, con tracce GPX e flyer pieghevoli, diventa un potente strumento di marketing nel turismo."
-date: 2025-08-22
+date: 2025-08-21
 categories: 
 tags: 
 image: "/images/gallery/galleria-3dmap/IMG_5924.jpg"

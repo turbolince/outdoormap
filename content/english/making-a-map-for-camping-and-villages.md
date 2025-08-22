@@ -2,7 +2,7 @@
 title: "Creation of maps and charts for campsites and tourist villages"
 description: "How to represent hilly areas and olive groves in the 2D map of a campsite or a tourist village."
 tags: 
-date: 2024-11-08
+date: 2025-08-21
 image: "/images/gallery/creazione-mappa-campeggio-villaggio/creazione-mappa-camping-villaggio-turistico-3.jpg"
 draft: false
 ---

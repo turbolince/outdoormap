@@ -3,6 +3,7 @@ title: "Contacts"
 meta_title: "Contacts"
 description: "Contacts Map creator for outdoor and camping"
 draft: false
+date: 2025-08-21
 ---
 
 ## Contatti Outdoor map ##

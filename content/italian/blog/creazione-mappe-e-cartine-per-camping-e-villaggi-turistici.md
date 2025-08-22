@@ -2,7 +2,7 @@
 title: "Creazione mappe e cartine per camping e villaggi turistici"
 description: "Come rappresentare aree collinari e oliveti nella mappa 2d di un camping o di un villaggio turistico."
 tags: 
-date: 2024-11-08
+date: 2025-08-21
 image: "/images/gallery/creazione-mappa-campeggio-villaggio/creazione-mappa-camping-villaggio-turistico-3.jpg"
 draft: false
 ---

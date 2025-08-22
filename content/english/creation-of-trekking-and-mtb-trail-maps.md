@@ -1,7 +1,7 @@
 ---
 title: "Creation of trekking and mtb trail maps: a tool for tourism marketing"
 description: "Discover how creating trekking and MTB trail maps, with GPX tracks and foldable flyers, becomes a powerful marketing tool in tourism."
-date: 2025-08-22
+date: 2025-08-21
 categories: 
 tags: 
 image: "/images/gallery/galleria-3dmap/IMG_5924.jpg"
