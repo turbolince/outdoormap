@@ -2,11 +2,17 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://www.outdoor3dmap.com/"
 enableRobotsTXT = true
-relativeURLs = true
-[languages.it]
-baseURL = "https://outdoor3dmap.com/"
-[languages.en]
-baseURL = "https://outdoor3dmap.com/en/"
+
+[languages]
+  [languages.it]
+    baseURL = "https://www.outdoor3dmap.com/"
+    languageName = "Italiano"
+    weight = 1
+
+  [languages.en]
+    baseURL = "https://www.outdoor3dmap.com/en/"
+    languageName = "English"
+    weight = 2
 # Title of your website (required).
 title = "Outdoor 3D Map - Mappe e Cartine per Camping, parchi, territorio e turismo"
 # Your theme name
