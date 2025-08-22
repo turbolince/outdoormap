@@ -21,13 +21,13 @@ weight = 3
 name = "Camping and village Maps"
 parent = "Maps types"
 url = "/making-a-map-for-camping-and-villages/"
-weight = 3
+weight = 1
 title = "Camping, campsite and village Maps creator"
 
 [[main]]
 name = "Trekking and MTB Maps"
 url = "/creation-of-trekking-and-mtb-trail-maps/"
-weight = 4
+weight = 2
 title = "Trekking and MTB Maps creator"
 parent = "Maps types"
 
@@ -36,7 +36,7 @@ parent = "Maps types"
 [[main]]
 name = "About"
 url = "/about"
-weight = 5
+weight = 4
 title = "About Outdoor 3D Map"
 
 
@@ -44,13 +44,13 @@ title = "About Outdoor 3D Map"
 [[main]]
 name = "Contacts"
 url = "/contacts"
-weight = 6
+weight = 5
 title = "Contacts Outdoor 3D Map"
 
 [[main]]
 name = "Blog"
 url = "/blog"
-weight = 7
+weight = 6
 title = "Blog Outdoor 3D Map"
 
 
