@@ -1,18 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://www.outdoor3dmap.com/"
-enableRobotsTXT = true
+relativeURLs = true
 
-[languages]
-  [languages.it]
-    baseURL = "https://www.outdoor3dmap.com/"
-    languageName = "Italiano"
-    weight = 1
-
-  [languages.en]
-    baseURL = "https://www.outdoor3dmap.com/en/"
-    languageName = "English"
-    weight = 2
 # Title of your website (required).
 title = "Outdoor 3D Map - Mappe e Cartine per Camping, parchi, territorio e turismo"
 # Your theme name
@@ -30,7 +20,7 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 # default language
 defaultContentLanguage = 'it'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 ########################### Services #############################
 [services]

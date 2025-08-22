@@ -1,4 +1,3 @@
 User-agent: *
-sitemap: https://www.outdoor3dmap.com/sitemap.xml
 sitemap: https://www.outdoor3dmap.com/it/sitemap.xml
 sitemap: https://www.outdoor3dmap.com/en/sitemap.xml

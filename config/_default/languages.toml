@@ -3,10 +3,10 @@
 languageName = "It"
 languageCode = "it-it"
 contentDir = "content/italian"
-weight = 1
+weight = 10
 
 [en]
   languageName = "En"
-  languageCode = "en-en"
+  languageCode = "en-GB"
   contentDir = "content/english"
-  weight = 2
+  weight = 20
