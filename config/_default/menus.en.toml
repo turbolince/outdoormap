@@ -14,7 +14,12 @@ weight = 2
 title = "Examples of camping, village, outdoor and territory maps"
 
 [[main]]
+name = "Maps types"
+weight = 3
+
+[[main]]
 name = "Camping and village Maps"
+parent = "Maps types"
 url = "/making-a-map-for-camping-and-villages/"
 weight = 3
 title = "Camping, campsite and village Maps creator"
@@ -24,6 +29,7 @@ name = "Trekking and MTB Maps"
 url = "/creation-of-trekking-and-mtb-trail-maps/"
 weight = 4
 title = "Trekking and MTB Maps creator"
+parent = "Maps types"
 
 
 
