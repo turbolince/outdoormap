@@ -17,7 +17,7 @@ Creation of maps and charts for campsites and tourist villages, updatable and fo
 ![campsite tourist village map creation 2](/images/gallery/creazione-mappa-campeggio-villaggio/creazione-mappa-camping-villaggio-turistico-2.jpg)
 
 The campsite map is one of the first things customers see!
------------------------------------------------------------
+
 
 The map of your campsite or tourist village is not just a map! It is also a marketing product that can appeal to potential customers and communicates how well organized you are.  
 Often on websites or flyers you see ugly or sad campsite maps; what are we communicating to the primitive brain of our potential customers with these maps? That the campsite itself is ugly and sad!  
@@ -28,7 +28,6 @@ If you are interested in a map for your tourist village or campsite, contact us 
 ![campsite tourist village map creation 1](/images/gallery/creazione-mappa-campeggio-villaggio/creazione-mappa-camping-villaggio-turistico-1.jpg)
 
 10 reasons why it is important to have a well-made campsite map
----------------------------------------------------------------
 
 Let’s look at some reasons why a well-designed map can help the campsite owner work better.
 
@@ -44,7 +43,6 @@ Let’s look at some reasons why a well-designed map can help the campsite owner
 10. Facilitates communication: a good map is a useful communication tool that can be shared with other campers or used to describe the location of a specific place.  
 
 5 ways to use the campsite map
--------------------------------
 
 1. Website: a campsite map can be integrated into the campsite’s website to help potential customers visualize the layout and available facilities.  
 2. Promotional flyers: a campsite map can be used as a visual element in promotional flyers to draw attention to the campsite’s services and attractions.  
@@ -53,6 +51,5 @@ Let’s look at some reasons why a well-designed map can help the campsite owner
 5. Digital marketing: an interactive campsite map can be integrated into digital marketing campaigns, for example as part of a social media ad or a promotional video.  
 
 Integration of tourist information into the map
------------------------------------------------
 
 In addition, a well-made map can also include information about attractions and sporting activities available around the campsite. For example, the map can show nearby places to visit, such as national parks, tourist attractions, or nearby towns. This helps campers plan their days and discover what to see and do in the area. Moreover, the map can also highlight opportunities for outdoor activities such as hiking, fishing, cycling, or horseback riding. This information can be very useful for campers who want to make the most of their outdoor experience.  

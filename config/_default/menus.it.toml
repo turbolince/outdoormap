@@ -5,17 +5,19 @@
 name = "Home"
 url = "/"
 weight = 1
-title = "Home"
+title = "Creazione mappe per Outdoor, turismo e camping"
 
 [[main]]
 name = "Esempi"
 url = "/esempi-mappe-3d-outdoor-territorio"
 weight = 2
+title = "Esempi di mappe per camping, parchi, territorio e turismo"
 
 [[main]]
 name = "Chi sono"
 url = "/chi-sono"
 weight = 3
+title = "Chi sono"
 
 
 
@@ -23,11 +25,13 @@ weight = 3
 name = "Contatti"
 url = "/contatti"
 weight = 4
+title = "Contatti"
 
 [[main]]
 name = "Blog"
 url = "/blog"
 weight = 5
+title = "Blog"
 
 
 
