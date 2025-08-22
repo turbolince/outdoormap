@@ -20,7 +20,7 @@ weight = 3
 [[main]]
 name = "Camping and village Maps"
 parent = "Maps types"
-url = "/making-a-map-for-camping-and-villages/"
+url = "/making-maps-for-campsite-turist-villages/"
 weight = 1
 title = "Camping, campsite and village Maps creator"
 
