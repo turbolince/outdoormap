@@ -2,7 +2,7 @@
 title: "Rappresentazione di un'area collinare o montuosa su una Mappa 2D per Campeggi e Villaggi Turistici"
 description: "Come rappresentare aree collinari e oliveti nella mappa 2d di un camping o di un villaggio turistico."
 tags: 
-date: 2024-11-08
+date: 2025-08-21
 image: "/images/mappa-campeggio-collina.jpg"
 draft: false
 ---

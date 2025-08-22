@@ -1,11 +1,8 @@
 ---
 title: "About me"
 date: 2024-10-24T17:41:57+02:00
-# meta title
 meta_title: "about me"
-# meta description
 description: "About me, map creator, mountain bike trail, trekking, trail running, territorial representation"
-# save as draft
 draft: false
 ---
 

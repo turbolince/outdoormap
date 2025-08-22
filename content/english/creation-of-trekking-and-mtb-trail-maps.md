@@ -6,7 +6,6 @@ categories:
 tags: 
 image: "/images/gallery/galleria-3dmap/IMG_5924.jpg"
 draft: false
-slug: "creation-trekking-mtb-trail-maps"
 ---
 
 The **creation of trekking and MTB trail maps** is an activity that combines technical skills and graphic creativity. It is not just about drawing lines on a chart, but about transforming a route into a clear, readable and attractive representation for the end user.  
