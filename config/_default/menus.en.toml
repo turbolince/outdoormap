@@ -1,0 +1,48 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+title = "Home"
+
+[[main]]
+name = "Sample"
+url = "/examples-of-3d-outdoor-and-territory-maps/"
+weight = 2
+
+[[main]]
+name = "Camping and village Maps"
+url = "/making-a-map-for-camping-and-villages/"
+weight = 3
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 4
+
+
+
+[[main]]
+name = "Contacts"
+url = "/contacts"
+weight = 5
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 6
+
+
+
+
+
+
+# footer menu
+
+
+# [[footer]]
+# name = "Home"
+# url = "/"
+# weight = 1

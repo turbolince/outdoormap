@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 relativeURLs = true
 # Title of your website (required).
-title = "Outdoor 3D Map - Mappe e Cartine per il territorio e il turismo"
+title = "Outdoor 3D Map - Mappe e Cartine per Camping, parchi, territorio e turismo"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
