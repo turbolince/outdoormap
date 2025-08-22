@@ -1,14 +1,10 @@
 {
   "main": [
-    {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/redlinemtb"
-    },
+   
     {
       "name": "Instagram",
       "icon": "fab fa-instagram",
-      "link": "https://instagram.com/redlinemtb"
+      "link": "https://instagram.com/outdoor3dmap"
     }
   ]
 }
