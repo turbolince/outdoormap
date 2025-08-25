@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://www.outdoor3dmap.com/"
- relativeURLs = true
+relativeURLs = true
 
 # Title of your website (required).
 title = "Outdoor 3D Map - Mappe e Cartine per Camping, parchi, territorio e turismo"
