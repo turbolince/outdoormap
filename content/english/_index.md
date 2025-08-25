@@ -3,7 +3,7 @@
 banner:
   title: "Creation of maps and charts for territory and tourism"
   content: "Maps and charts are still widely used today and remain truly fascinating. The creation of tourist maps and charts is our passion. We specialize in designing maps and charts for parks and nature reserves. Our 2D and 3D maps are perfect for illustrating trails, routes and itineraries of tourist destinations. Some examples of use: maps and charts for MTB and trekking routes. Maps and charts for running and trail running races. We create maps by accurately placing GPX tracks on the map with waypoints and POIs (points of interest). We design stunning illustrated 2D and 3D maps. We also produce folding maps for trails and routes. Maps for cycling and MTB races, trekking routes, camping areas and resorts, bike parks and ski resorts. Our specialty is creating maps for parks and nature reserves."
-  image: "/images/gallery/galleria-3dmap/campsite-map-making-3.jpg"
+  image: "/images/gallery/galleria-3dmap/overview2-more-light.png"
 
   # button:
   #   enable: true

@@ -3,7 +3,7 @@
 banner:
   title: "Creazione Mappe e Cartine per il territorio e il turismo "
   content: "Le mappe e le cartine sono ancora oggi largamente usate e molto affascinanti. La creazione di mappe e cartine turistiche è la nostra passione. Noi ci occupiamo di creazione di mappe e cartine per parchi, riserve naturali. Le nostre mappe 2d e 3d sono perfette per illustrare sentieri, percorsi e itinerari di località turistiche. Alcuni esempi di uso: mappe e cartine per percorsi Mtb e trekking. Mappe e cartine per gare di running e trail running. Ci occupiamo di creazione di mappe riportando in modo preciso percorsi GPX sulla mappa con waypoint e POI (punti di interesse). Creiamo stupende mappe 2D e 3D illustate. Ci occupiamo della creazione di mappe pieghevoli per sentieri e percorsi. Mappe per gare di ciclismo e Mtb, percorsi trekking, aree campeggio e resort, Bike Park e Ski resort. La nostra specilaità è la creazione di mappe per parchi e riserve naturali."
-  image: "/images/gallery/galleria-3dmap/campsite-map-making-3.jpg"
+  image: "/images/gallery/galleria-3dmap/overview2-more-light.png"
 
   # button:
   #   enable: true
