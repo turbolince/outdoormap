@@ -47,11 +47,11 @@ url = "/contacts"
 weight = 5
 title = "Contacts Outdoor 3D Map"
 
-# [[main]]
-# name = "Blog"
-# url = "/blog"
-# weight = 6
-# title = "Blog Outdoor 3D Map"
+[[main]]
+name = "Blog"
+url = "/en/blog"
+weight = 6
+title = "Blog Outdoor 3D 2D Maps for turism and camping"
 
 
 
