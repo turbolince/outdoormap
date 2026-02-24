@@ -7,4 +7,4 @@ draft: false
 
 ## Contatti Outdoor map ##
 
-graziano.demaio@gmail.com
+graziano.demaio@gdmtech.it
