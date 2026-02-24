@@ -8,4 +8,4 @@ date: 2025-08-21
 
 ## Contatti Outdoor map ##
 
-graziano.demaio@gmail.com
+graziano.demaio@gdmtech.it
